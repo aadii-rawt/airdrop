@@ -9,7 +9,7 @@ const Toast = ({showToast,setShowToast}) => {
     },[])
   return (
     <div className='text-sm p-5 px-8 border absolute right-10 rounded bottom-10 text-white border-white'>
-        <h1>Airdrop send successfully</h1>
+        <h1></h1>
     </div>
   )
 }
